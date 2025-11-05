@@ -1,11 +1,14 @@
 """
+------------------------------------------------------------
+Universidad Nacional Experimental de Guayana (UNEG)
 Asignatura: Lenguajes y Compiladores
 Periodo: 2025-II
 Autor: Daniel Mata 30.810.393
 ------------------------------------------------------------
-Problema 4:
-Para un programa escrito en lenguaje C, cargado en una memoria de forma dinámica verifique si
-existen palabras reservadas en C y tradúzcalas a su equivalente en español.
+Problema 1:
+Validar si una cadena C se encuentra en notación FEN
+(Forsyth–Edwards Notation), utilizada para describir
+posiciones de ajedrez.
 ------------------------------------------------------------
 """
 
